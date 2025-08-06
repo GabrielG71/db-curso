@@ -1,0 +1,35 @@
+Modelar dados:
+Picole tem dois tipos:
+- Água
+- Leite
+
+Todo picole precisa ter as sg info:
+- Sabor
+- Ingrediente
+- Preço
+- Tipo de Embalagem
+
+Ingredientes de picole tem:
+- Nome
+- Fórmula Química
+
+Picolés são vendidos em:
+- Lote
+- NF
+
+Toda NF tem:
+- data
+- valor
+- número de série
+- descrição
+
+O Revendedor tem:
+- CNPJ
+- Razão Social
+- Contatos de emergência
+
+Todo contato de emergência:
+- Nome
+- Telefone
+
+
