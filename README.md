@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-F89820?style=for-the-badge&logo=phpMyAdmin&logoColor=white" alt="phpMyAdmin"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 Este repositório contém os projetos, consultas e exercícios desenvolvidos por mim durante o curso 
